@@ -1,0 +1,9 @@
+.DS_Store
+*.pptx
+Screenshot*.png
+爱心晚上医疗.png
+
+# Retained locally but not used by the published website.
+assets/coverage-map.png
+assets/healthcare-team.jpg
+assets/medical-care.jpg
